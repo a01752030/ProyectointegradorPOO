@@ -1,0 +1,9 @@
+Clases hechas en equipo:
+Producto.h
+Tienda.h
+Usuario.h
+Proyectointegrador.cpp
+Clases hechas por Salvador Arreola Tena:
+Calculadora.h
+Clases hechas por Juan Pablo Castañeda Serrrano:
+Precio.h
